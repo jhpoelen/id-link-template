@@ -1,22 +1,93 @@
 start_id,link_rel,end_id
-https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
-http://www.gbif.org/occurrence/1038963366,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
-http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
-urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d
-urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://www.gbif.org/occurrence/1038963366
-urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://collections.peabody.yale.edu/search/Record/YU.051351
-urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0
-,,
-http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
-http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
-http://www.gbif.org/occurrence/1227752453,refers,http://www.gbif.org/species/6163936
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://eol.org/pages/328583
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/species/6163936
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202390
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://tree.opentreeoflife.org/taxonomy/browse?id=755862
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1049777
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2313726
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2301476
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1019786
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1964813
-http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2293215
+https://commons.wikimedia.org/w/index.php?title=File:The-type-material-of-Mantodea-%28praying-mantises%29-deposited-in-the-National-Museum-of-Natural-zookeys-433-031-g002.jpg&oldid=187957667,refers,USNM ENT 00873051
+https://commons.wikimedia.org/w/index.php?title=File:The-type-material-of-Mantodea-%28praying-mantises%29-deposited-in-the-National-Museum-of-Natural-zookeys-433-031-g002.jpg&oldid=187957667,refers,USNM ENT 00873994
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873017
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873019
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873050
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873050
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873051
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873051
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873054
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873055
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873056
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873057
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873058
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873059
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873059
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873965
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873965
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873966
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873966
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873967
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873967
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873968
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873968
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873969
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873969
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873970
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873970
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873971
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873971
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873972
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873972
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873973
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873973
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873974
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873974
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873975
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873975
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873976
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873976
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873977
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873977
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873978
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873978
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873979
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873979
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873980
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873980
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873981
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873981
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873982
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873982
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873983
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873983
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873984
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873984
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873985
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873985
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873986
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873986
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873987
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873987
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873988
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873988
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873989
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873989
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873990
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873990
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873991
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873991
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873992
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873992
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873993
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873993
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873994
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873994
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873995
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873995
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873996
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873996
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873997
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873997
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873998
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873998
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873999
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873999
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 1
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 34
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 36
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 45
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 6
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 62
+http://specimens.mantodearesearch.com/specimen/958,refers,USNM ENT 00873051
