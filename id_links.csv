@@ -1,4 +1,43 @@
 start_id,link_rel,end_id
+https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://www.gbif.org/occurrence/1038963366,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://www.gbif.org/occurrence/1038963366
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0
+,,
+http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
+http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
+http://www.gbif.org/occurrence/1227752453,refers,http://www.gbif.org/species/6163936
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://eol.org/pages/328583
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/species/6163936
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202390
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://tree.opentreeoflife.org/taxonomy/browse?id=755862
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1049777
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2313726
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2301476
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1019786
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1964813
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2293215
+NMR:9991-07729,refers,https://paleobiodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&taxon_no=335542
+NMR:9991-07729,refers,10.7717/peerj.1572
+NMR:9991-07729,refers,http://dx.doi.org/10.7934/P2225
+NMR:9991-07729,refers,http://www.morphobank.org/index.php/Projects/Specimens/id/91904/project_id/2225
+https://peerj.com/articles/1553/,refers,MNHN RA 0.742
+https://peerj.com/articles/1553/,refers,MNHN 0.742
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/,refers,MNHN RA 0.742
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/,refers,MNHN 0.742
+https://doi.org/10.7717/peerj.1553,refers,MNHN RA 0.742
+https://doi.org/10.7717/peerj.1553,refers,MNHN 0.742
+https://doi.org/10.7717/peerj.1553/fig-1,refers,MNHN 0.742
+https://science.mnhn.fr/institution/mnhn/collection/ra/item/0.742,refers,MNHN-RA-0.742
+http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742,refers,MNHN-RA-0.742
+http://www.gbif.org/occurrence/440131294/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+https://www.idigbio.org/portal/records/7cd2e2f0-d54c-4215-8c3d-ad5da1adbf56,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://portal.vertnet.org/o/mnhn/ra?id=0_742,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Bufonidae/Sclerophrys/Sclerophrys-capensis->MNHNP 0.742
+https://peerj.com/articles/1553/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
 https://commons.wikimedia.org/w/index.php?title=File:The-type-material-of-Mantodea-%28praying-mantises%29-deposited-in-the-National-Museum-of-Natural-zookeys-433-031-g002.jpg&oldid=187957667,refers,USNM ENT 00873051
 https://commons.wikimedia.org/w/index.php?title=File:The-type-material-of-Mantodea-%28praying-mantises%29-deposited-in-the-National-Museum-of-Natural-zookeys-433-031-g002.jpg&oldid=187957667,refers,USNM ENT 00873994
 http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873017
