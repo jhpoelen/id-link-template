@@ -10,7 +10,10 @@ our $API_URL = 'http://commons.wikimedia.org/w/api.php';
 
 # Step 1. Identify keywords.
 use Getopt::Long;
-GetOptions() or die("Error in command line arguments");
+my $offset = 0;
+GetOptions(
+    'offset=i' => \$offset   
+) or die("Error in command line arguments");
 
 # Anything that's left must be keywords!
 my $query = join(' ', @ARGV);
@@ -21,6 +24,8 @@ say STDERR "Searching $API_URL for '$query'";
 use MediaWiki::API;
 my $mw = MediaWiki::API->new();
 $mw->{config}->{api_url} = $API_URL;
+
+my $count = 0;
 
 $mw->list({
     action => 'query',
@@ -35,7 +40,12 @@ $mw->list({
         my ($results) = @_;
         my @results = @{$results};
             
-        say STDERR "Retrieved $#results results.";
+        say STDERR "Retrieved $#results results, $count already processed.";
+        $count += $#results;
+
+        if($count < $offset) {
+            return;
+        }
 
         foreach my $res (@results) {
             my $title = $res->{'title'};
@@ -58,11 +68,12 @@ $mw->list({
             # TODO: Parse $content to plain text so templated can't interrupt DwC-triples.
             
             # DwC Triplet regex based on http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114069
-            my @matches = ($content =~ /([A-Z]{3,8}[\:\s](?:[A-Z][a-z]+[\:\s])?[0-9\.]+)/);
+            if(defined($content) and ($content ne '')) {
+                my @matches = ($content =~ /([A-Z]{3,8}[\:\s](?:[A-Z][a-z]+[\:\s])?[0-9\.]+)/);
 
-            foreach my $match (@matches) {
-
-                say "$page_url,refers,$match";
+                foreach my $match (@matches) {
+                    say "$page_url,refers,$match";
+                }
             }
         }
     }
