@@ -39,9 +39,9 @@ To try the PageRank algorithm and test the scalability of the chosen technologie
 
 dataset | #links | file size | processing time | top 1000 identifiers | description 
 --- | --- | --- | --- | --- | ---
-small | 2311 | ~200K | <1min | [id rank small](rank_ids_small.csv) | consisted of manually and semi-automatically constructed identifier links
-medium | ~500k | ~50M | <1min | [id rank medium](rank_ids_medium.csv) | small dataset (see above) + first 100k lines from both idigbio and gbif occurrences
-large | ~50M | 2.7G | ~90min | [id rank large](rank_ids_large.csv) | 15M idigbio occurrence records 
+small | 2311 | ~200K | <1min (6GB mem/5 cores/1 node) | [id rank small](rank_ids_small.csv) | consisted of manually and semi-automatically constructed identifier links
+medium | ~500k | ~50M | <1min (6GB mem/ 5 cores/1 node) | [id rank medium](rank_ids_medium.csv) | small dataset (see above) + first 100k lines from both idigbio and gbif occurrences
+large | ~50M | 2.7G | ~90min (6GB mem/ 5 cores/1 node) | [id rank large](rank_ids_large.csv) | 15M idigbio occurrence records 
 
 Note that for the automated extraction of links from the gbif and idigbio darwin core archives, the following terms were included: 
 
