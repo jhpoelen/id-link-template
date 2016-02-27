@@ -15,9 +15,9 @@ After some initial work at the workshop, some features to an existing repository
 Scala 2.10, Apache Spark v1.6.0 (including Spark SQL and GraphX) running in a single node Apache Mesos v0.26.0 cluster hosted by iDigBio, specially developed Spark Jobs available at https://https://github.com/idigbio-api-hackathon/idigbio-spark. 
 
 ## Data Acquisition Methods
-1. id_links.csv files as published in various github archives forked from https://github.com/jhpoelen/id-link-template 
+1. manually curated id_links.csv files as published in various github archives forked from https://github.com/jhpoelen/id-link-template 
 2. data retrieved from wikidata/media using a publicly available api. See https://github.com/jhpoelen/id-link-template/tree/master/mediawiki for more information
-3. iDigBio darwin core archive from June 2015, GBIF archive including records without any known geospatial issues.
+3. iDigBio darwin core archive from June 2015, and parts of a 2015 GBIF archive including all records without any known geospatial issues.
 
 ## Results
 Manual data extraction resulted in less than about a hundred links between ids as gathered over some hours in a group of about 10 people. Scripts were developed to retrieve relevant data from wikidata, resulting in over a thousand links between relevant specimen identifier in the course of the workshop. 
@@ -38,10 +38,10 @@ So, the data processing workflow was:
 To try the PageRank algorithm and test the scalability of the chosen technologies (Apache Spark/GraphX), three datasets were compiled and processed. The results are shown in the following table.
 
 dataset | #links | file size | processing time | top 1000 identifiers | description 
---- | --- | --- | --- | ---
-small | 2311 | ~200K | <1min | [id rank small](small-rank-id.csv) | consisted of manually and semi-automatically constructed identifier links
-medium | ~500k | ~50M | <1min | [id rank medium](medium-rank-id.csv) | small dataset (see above) + first 100k lines from both idigbio and gbif occurrences
-large | ~50M | 2.7G | ~90min | [id rank large](large-rank-id.csv) | 15M idigbio occurrence records 
+--- | --- | --- | --- | --- | ---
+small | 2311 | ~200K | <1min | [id rank small](rank_ids_small.csv) | consisted of manually and semi-automatically constructed identifier links
+medium | ~500k | ~50M | <1min | [id rank medium](rank_ids_medium.csv) | small dataset (see above) + first 100k lines from both idigbio and gbif occurrences
+large | ~50M | 2.7G | ~90min | [id rank large](rank_ids_large.csv) | 15M idigbio occurrence records 
 
 Note that for the automated extraction of links from the gbif and idigbio darwin core archives, the following terms were included: 
 
@@ -62,7 +62,7 @@ Note that for the automated extraction of links from the gbif and idigbio darwin
 ```
 
 top 10 
-## small dataset
+## small dataset (phoibos2 manual/semi-auto)
 page rank | identifier
 --- | ---
 7.6 | PZSL 1848
@@ -112,7 +112,7 @@ These experiments seems to indicate that an easy to understand three column repr
 
 Not much time has been spent on analyzing the results, but at first glance, the small dataset brings PZCL 1848 (Proceedings for Zoological Society London 1848?) and two dinosaur specimen (AMNH specimen 5116, AMNH specimen 5027) in the spotlight. Unlike the three identifiers mentioned, the ids with prefix EOLID could not be found in free form Google searches. The larger datasets seem to favor institutions, which is unsuprising, because many specimen are contained in a collection and even more are associated with institutions.
 
-More data experiments are needed using a more varied range of datasets to come up with a suitable measure for capturing the impact of a specific identifier, but these results seems to suggest that the choice of technologies and data representation are suitable for this kind of data heavy exercize. 
+More data experiments are needed using a more varied range of datasets (e.g. all of gbif, genbank) to come up with a suitable measure for capturing the impact of a specific identifier, but these results seems to suggest that the choice of technologies and data representation are suitable for this kind of data-heavy exercize. 
 
 
 
