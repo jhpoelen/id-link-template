@@ -114,6 +114,8 @@ Not much time has been spent on analyzing the results, but at first glance, the 
 
 More data experiments are needed using a more varied range of datasets (e.g. all of gbif, genbank) to come up with a suitable measure for capturing the impact of a specific identifier, but these results seems to suggest that the choice of technologies and data representation are suitable for this kind of data-heavy exercize. 
 
+In order to perform these data experiments to come up with suitable data processing methods, access to a cluster infrastructure is needed that co-locates massive datasets with data processing capacity. Sharing such an infrastructure between individuals and institutions might increase the bang for your buck both in time and costs: while hardware is cheap, configuring and maintaining such an infrastructure takes not as much skills as it does patience.
+
 
 
 
