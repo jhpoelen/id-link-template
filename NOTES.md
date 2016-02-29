@@ -1,5 +1,8 @@
 Notes related to Phoibos2 Identifier Workshop and identifier impact experiments.
 
+Author: Jorrit Poelen
+Date: Feb 2016
+
 # Context
 At the Phoibos2 identifier workshop Feb 2016, we explored the feasibility of coming up with a method to identify well-used identifiers for purposes of studying how specific identifiers are used in the wild. The project was called the "counting" group.
 
@@ -108,7 +111,7 @@ page rank | identifier
 
 # Conclusion/discussion
 
-These experiments seems to indicate that an easy to understand three column representation of identifier relationships can facilitate the access to manually and automatically acquired identifier link datasets. Also, the technology chosen (Apache Spark/GraphX) seems to be able to process large datasets without. Also, the technology is designed such that processing capacity can be increased by adding hardware without the need to rewrite the processing software (e.g. "spark jobs"). 
+These experiments seems to indicate that an easy to understand three column representation of identifier relationships can facilitate the access to manually and automatically acquired identifier link datasets. Also, the technology chosen (Apache Spark/GraphX) seems to be able to process large datasets using an API/framework that is relatively straightforward (compared to for instance hadoop map/reduce). Also, the technology is designed such that processing capacity can be increased by adding hardware without the need to rewrite the processing software (e.g. "spark jobs"). 
 
 Not much time has been spent on analyzing the results, but at first glance, the small dataset brings PZCL 1848 (Proceedings for Zoological Society London 1848?) and two dinosaur specimen (AMNH specimen 5116, AMNH specimen 5027) in the spotlight. Unlike the three identifiers mentioned, the ids with prefix EOLID could not be found in free form Google searches. The larger datasets seem to favor collections and institutions (most notably Harvard), which is unsuprising, because many specimen are contained in a collection and even more are associated with institutions.
 
