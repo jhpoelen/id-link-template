@@ -80,7 +80,7 @@ page rank | identifier
 1.9 | EOLID:4752261
 1.8 | EOLID:25467
 
-This small dataset was visualized using force-directed https://d3js.org layout (see source [here](https://gist.github.com/jhpoelen/a9b5ba79c3136faf7b3d) below. You can see that the pagerank result is visually present in the clustering of the links (circles) and their connections (lines). You can render the graph yourself using [this link](http://rawgit.com/jhpoelen/a9b5ba79c3136faf7b3d/raw/f733a1b61b5e17601f8ff8f481562fea133aa1ab/index.html). Note that this visualization method becomes a bit unpractical with larger datasets. Interactive queries are probably needed to select a subgraph for visualization to reduce the number of data points that need to be loaded.
+This small dataset was visualized using force-directed https://d3js.org layout below (see source [here](https://gist.github.com/jhpoelen/a9b5ba79c3136faf7b3d) render the graph yourself [here](http://rawgit.com/jhpoelen/a9b5ba79c3136faf7b3d/raw/f733a1b61b5e17601f8ff8f481562fea133aa1ab/index.html)). You can see that the pagerank result is visually present in the clustering of the links (circles) and their connections (lines). Note that this visualization method becomes a bit unpractical with larger datasets due to network and computation contraints. Interactive queries are probably needed to select a subgraph for visualization to reduce the number of data points that need to be loaded.
 
 ![network diagram small dataset](./phoibosSmallIdentifierSet.png).
 
