@@ -41,11 +41,11 @@ So, the data processing workflow was:
 
 To try the PageRank algorithm and test the scalability of the chosen technologies (Apache Spark/GraphX), three datasets were compiled and processed. The results are shown in the following table.
 
-dataset | #links | file size | processing time | top 1000 identifiers | description 
---- | --- | --- | --- | --- | ---
-small | 2311 | ~200K | <1min (6GB mem/5 cores/1 node) | [id rank small](rank_ids_small.csv) | consisted of manually and semi-automatically constructed identifier links
-medium | ~500k | ~50M | <1min (6GB mem/ 5 cores/1 node) | [id rank medium](rank_ids_medium.csv) | small dataset (see above) + first 100k lines from both idigbio and gbif occurrences
-large | ~50M | 2.7G | ~90min (6GB mem/ 5 cores/1 node) | [id rank large](rank_ids_large.csv) | 15M idigbio occurrence records 
+dataset | #links | file | file size | processing time | top 1000 identifiers | description 
+--- | --- | --- | --- | --- | --- | ---
+small | 2311 |  [csv file](./id_links_small.csv) | ~200K |<1min (6GB mem/5 cores/1 node) | [id rank small](rank_ids_small.csv) | consisted of manually and semi-automatically constructed identifier links
+medium | ~500k  | [csv file](./id_links_medium.csv) | ~30M | <1min (6GB mem/ 5 cores/1 node) | [id rank medium](rank_ids_medium.csv) | small dataset (see above) + first 100k lines from both idigbio and gbif occurrences
+large | ~50M | available upon request | 2.7G | ~90min (6GB mem/ 5 cores/1 node) | [id rank large](rank_ids_large.csv) | 15M idigbio occurrence records 
 
 Note that for the automated extraction of links from the gbif and idigbio darwin core archives, the following terms were included: 
 
@@ -79,6 +79,10 @@ page rank | identifier
 1.9 | EOLID:15503955
 1.9 | EOLID:4752261
 1.8 | EOLID:25467
+
+This small dataset was visualized using force-directed https://d3js.org layout (see source [here](https://gist.github.com/jhpoelen/a9b5ba79c3136faf7b3d). You can see that the pagerank result is visually present in the clustering of the links (circles) and their connections (lines). You can render the graph yourself using [this link](http://rawgit.com/jhpoelen/a9b5ba79c3136faf7b3d/raw/f733a1b61b5e17601f8ff8f481562fea133aa1ab/index.html). Note that this visualization method becomes a bit unpractical with larger datasets. Interactive queries are probably needed to select a subgraph for visualization to reduce the number of data points that need to be loaded.
+
+![network diagram small dataset](./phoibosSmallIdentifierSet.png).
 
 
 ## medium dataset (phoibos2 manual/semi-auto + idigbio/gbif 100k)
