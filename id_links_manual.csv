@@ -1,0 +1,197 @@
+start_id,link_rel,end_id
+https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://www.gbif.org/occurrence/1038963366,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://www.gbif.org/occurrence/1038963366
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0
+,,
+http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
+http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
+http://www.gbif.org/occurrence/1227752453,refers,http://www.gbif.org/species/6163936
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://eol.org/pages/328583
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/species/6163936
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202390
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://tree.opentreeoflife.org/taxonomy/browse?id=755862
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1049777
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2313726
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2301476
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1019786
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1964813
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2293215
+NMR:9991-07729,refers,https://paleobiodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&taxon_no=335542
+NMR:9991-07729,refers,10.7717/peerj.1572
+NMR:9991-07729,refers,http://dx.doi.org/10.7934/P2225
+NMR:9991-07729,refers,http://www.morphobank.org/index.php/Projects/Specimens/id/91904/project_id/2225
+https://peerj.com/articles/1553/,refers,MNHN RA 0.742
+https://peerj.com/articles/1553/,refers,MNHN 0.742
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/,refers,MNHN RA 0.742
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/,refers,MNHN 0.742
+https://doi.org/10.7717/peerj.1553,refers,MNHN RA 0.742
+https://doi.org/10.7717/peerj.1553,refers,MNHN 0.742
+https://doi.org/10.7717/peerj.1553/fig-1,refers,MNHN 0.742
+https://science.mnhn.fr/institution/mnhn/collection/ra/item/0.742,refers,MNHN-RA-0.742
+http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742,refers,MNHN-RA-0.742
+http://www.gbif.org/occurrence/440131294/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+https://www.idigbio.org/portal/records/7cd2e2f0-d54c-4215-8c3d-ad5da1adbf56,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://portal.vertnet.org/o/mnhn/ra?id=0_742,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Bufonidae/Sclerophrys/Sclerophrys-capensis,refers,MNHNP 0.742
+https://peerj.com/articles/1553/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873017
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873019
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873050
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873050
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873051
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873051
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873054
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873055
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873056
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873057
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873058
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873059
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873059
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873965
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873965
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873966
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873966
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873967
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873967
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873968
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873968
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873969
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873969
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873970
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873970
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873971
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873971
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873972
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873972
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873973
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873973
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873974
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873974
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873975
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873975
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873976
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873976
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873977
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873977
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873978
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873978
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873979
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873979
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873980
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873980
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873981
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873981
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873982
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873982
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873983
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873983
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873984
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873984
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873985
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873985
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873986
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873986
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873987
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873987
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873988
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873988
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873989
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873989
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873990
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873990
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873991
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873991
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873992
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873992
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873993
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873993
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873994
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873994
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873995
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873995
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873996
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873996
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873997
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873997
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873998
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873998
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873999
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM ENT 00873999
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 1
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 34
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 36
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 45
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 6
+http://zookeys.pensoft.net/articles.php?id=3982,refers,USNM Liturgusa 62
+http://specimens.mantodearesearch.com/specimen/958,refers,USNM ENT 00873051
+http://www.gbif.org/occurrence/886898690,refers,http://n2t.net/ark:/65665/34629176f-1a72-4714-b23b-b77bf730bcd9
+doi:10.1016/j.ympev.2010.06.005,refers,USNM 533614
+doi:10.1016/j.ympev.2010.06.005,refers,HM229524
+doi:10.1016/j.ympev.2010.06.005,refers,HM229480
+doi:10.1016/j.ympev.2010.06.005,refers,HM229568
+doi:10.1016/j.ympev.2010.06.005,refers,HM229612
+doi:10.1016/j.ympev.2010.06.005,refers,HM229656
+http://www.ncbi.nlm.nih.gov/nuccore/300430440/,refers,USNM:Herp:533614
+http://www.ncbi.nlm.nih.gov/nuccore/300430352/,refers,USNM:Herp:533614
+http://www.ncbi.nlm.nih.gov/nuccore/300430528/,refers,USNM:Herp:533614
+http://www.ncbi.nlm.nih.gov/nuccore/300430616/,refers,USNM:Herp:533614
+http://www.ncbi.nlm.nih.gov/nuccore/300430704/,refers,USNM:Herp:533614
+https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://www.gbif.org/occurrence/1038963366,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://www.gbif.org/occurrence/1038963366
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://portal.neherbaria.org/portal/collections/individual/index.php?occid=89410&clid=0
+,,
+http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
+http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
+http://www.gbif.org/occurrence/1227752453,refers,http://www.gbif.org/species/6163936
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://eol.org/pages/328583
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/species/6163936
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=202390
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://tree.opentreeoflife.org/taxonomy/browse?id=755862
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1049777
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2313726
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2301476
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1019786
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/1964813
+http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.inaturalist.org/observations/2293215
+NMR:9991-07729,refers,https://paleobiodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&taxon_no=335542
+NMR:9991-07729,refers,10.7717/peerj.1572
+NMR:9991-07729,refers,http://dx.doi.org/10.7934/P2225
+NMR:9991-07729,refers,http://www.morphobank.org/index.php/Projects/Specimens/id/91904/project_id/2225
+https://peerj.com/articles/1553/,refers,MNHN RA 0.742
+https://peerj.com/articles/1553/,refers,MNHN 0.742
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/,refers,MNHN RA 0.742
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715445/,refers,MNHN 0.742
+https://doi.org/10.7717/peerj.1553,refers,MNHN RA 0.742
+https://doi.org/10.7717/peerj.1553,refers,MNHN 0.742
+https://doi.org/10.7717/peerj.1553/fig-1,refers,MNHN 0.742
+https://science.mnhn.fr/institution/mnhn/collection/ra/item/0.742,refers,MNHN-RA-0.742
+http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742,refers,MNHN-RA-0.742
+http://www.gbif.org/occurrence/440131294/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+https://www.idigbio.org/portal/records/7cd2e2f0-d54c-4215-8c3d-ad5da1adbf56,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://portal.vertnet.org/o/mnhn/ra?id=0_742,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Bufonidae/Sclerophrys/Sclerophrys-capensis->MNHNP 0.742
+https://peerj.com/articles/1553/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, sample id 07-SRNP-16635
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, field id 07-SRNP-16635
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, museum code 07-SRNP-16635
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, deposited in, research collection of DH janzen and Hallwachs
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, http://www.ncbi.nlm.nih.gov/nuccore/GU653095
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, sequence id MHMYD1908-09.COI-5P
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, bioproject id http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, organism http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=829952
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, process id http://www.boldsystems.org/connectivity/specimenlookup.php?processid=MHMYD1908-09.COI-5P
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, specimen voucher=personal:DHJanzen:07-SRNP-16635
+http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833, refers, *publication http://www.ncbi.nlm.nih.gov/pubmed/26175299 
+http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833, refers, ID: 37833
+http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833, refers, ID: 37833
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09,refers,  http://bins.boldsystems.org/index.php/Public_BarcodeCluster?clusteruri=BOLD:AAA0102
+http://bins.boldsystems.org/index.php/Public_BarcodeCluster?clusteruri=BOLD:AAA0102, refers, http://bins.boldsystems.org/index.php/Public_SearchTerms?query=BOLD:AAA0102
+http://bins.boldsystems.org/index.php/Public_SearchTerms?query=BOLD:AAA0102, refers, *(many)http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09
