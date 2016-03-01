@@ -82,7 +82,9 @@ page rank | identifier
 
 This small dataset was visualized using force-directed https://d3js.org layout below (see source [here](https://gist.github.com/jhpoelen/a9b5ba79c3136faf7b3d) render the graph yourself [here](http://rawgit.com/jhpoelen/a9b5ba79c3136faf7b3d/raw/f733a1b61b5e17601f8ff8f481562fea133aa1ab/index.html)). You can see that the pagerank result is visually present in the clustering of the links (circles) and their connections (lines). Note that this visualization method becomes a bit unpractical with larger datasets due to network and computation contraints. Interactive queries are probably needed to select a subgraph for visualization to reduce the number of data points that need to be loaded.
 
-![network diagram small dataset](./phoibosSmallIdentifierSet.png).
+**Click on figure to show animated construction of force-directed network diagram in a browser**.
+
+[![network diagram small dataset](./phoibosSmallIdentifierSet.png)](http://rawgit.com/jhpoelen/a9b5ba79c3136faf7b3d/raw/f733a1b61b5e17601f8ff8f481562fea133aa1ab/index.html).
 
 
 ## medium dataset (phoibos2 manual/semi-auto + idigbio/gbif 100k)
