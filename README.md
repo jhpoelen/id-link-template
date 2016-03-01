@@ -9,6 +9,9 @@ This repository takes an inaturalist observations of a Sea otter (_Enhydra lutri
 
 See some notes on calculating PageRank with the linked identifiers, please see these [notes](./NOTES.md).
 
-These [notes](./NOTES.md) also include a explanation of the image below:
+The [notes](./NOTES.md) provide some context for the graph below.
 
-![network diagram of links](./phoibosSmallIdentifierSet.png)
+**Click on figure to show animated construction of force-directed network diagram in a browser**.
+
+[![network diagram small dataset](./phoibosSmallIdentifierSet.png)](http://rawgit.com/jhpoelen/a9b5ba79c3136faf7b3d/raw/f733a1b61b5e17601f8ff8f481562fea133aa1ab/index.html).
+
